@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
+  "versionCode": 31,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Yangi: «Yoʻl koʻrsatish» — Haramga, mehmonxonaga va boshqa joylarga strelka va masofa, internetsiz xarita (Sozlamalardan yuklanadi). Mehmonxonani xaritadan belgilash, arabcha kartochka va QR orqali ulashish. Guruh muddati oʻzi uzayadi.",
-    "cyr": "Янги: «Йўл кўрсатиш» — Ҳарамга, меҳмонхонага ва бошқа жойларга стрелка ва масофа, интернетсиз харита (Созламалардан юкланади). Меҳмонхонани харитадан белгилаш, арабча карточка ва QR орқали улашиш. Гуруҳ муддати ўзи узаяди."
+    "lat": "«Yoʻl koʻrsatish» yangilandi: toʻliq ekranli xarita, yoʻl internetsiz paketdagi koʻchalar boʻylab chiziladi, burilishlar va piyoda vaqti koʻrsatiladi. Jamarot qoʻshildi.",
+    "cyr": "«Йўл кўрсатиш» янгиланди: тўлиқ экранли харита, йўл интернетсиз пакетдаги кўчалар бўйлаб чизилади, бурилишлар ва пиёда вақти кўрсатилади. Жамарот қўшилди."
   }
 }
