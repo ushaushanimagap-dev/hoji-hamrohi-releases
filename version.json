@@ -1,9 +1,9 @@
 {
-  "versionCode": 31,
+  "versionCode": 33,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "«Yoʻl koʻrsatish» yangilandi: toʻliq ekranli xarita, yoʻl internetsiz paketdagi koʻchalar boʻylab chiziladi, burilishlar va piyoda vaqti koʻrsatiladi. Jamarot qoʻshildi.",
-    "cyr": "«Йўл кўрсатиш» янгиланди: тўлиқ экранли харита, йўл интернетсиз пакетдаги кўчалар бўйлаб чизилади, бурилишлар ва пиёда вақти кўрсатилади. Жамарот қўшилди."
+    "lat": "Yangilanish endi ilovaning oʻzida yuklanadi va oʻrnatish oynasi ochiladi (brauzer kerak emas).",
+    "cyr": "Янгиланиш энди илованинг ўзида юкланади ва ўрнатиш ойнаси очилади (браузер керак эмас)."
   }
 }
