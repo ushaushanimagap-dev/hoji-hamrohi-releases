@@ -1,9 +1,9 @@
 {
-  "versionCode": 34,
+  "versionCode": 35,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Yangi dizayn: pastki menyu — Gapirish, Yoʻl, Adashdim, Guruh, Men. Sozlamalarda 5 ta rang mavzusi (Tungi ham) va yozuv oʻlchami.",
-    "cyr": "Янги дизайн: пастки меню — Гапириш, Йўл, Адашдим, Гуруҳ, Мен. Созламаларда 5 та ранг мавзуси (Тунги ҳам) ва ёзув ўлчами."
+    "lat": "Kirill yozuvi toʻliq: ilova nomi, masofalar (м, км). Xurmo mavzusida oltin urgʻu. Tungi mavzuda xarita bir tekis qorongʻi.",
+    "cyr": "Кирилл ёзуви тўлиқ: илова номи, масофалар (м, км). Хурмо мавзусида олтин урғу. Тунги мавзуда харита бир текис қоронғи."
   }
 }
