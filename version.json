@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
+  "versionCode": 24,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Guruh boʻlimi qoʻshildi (guruh ochish, QR bilan qoʻshilish). Ilovadagi ovoz tuzatildi.",
-    "cyr": "Гуруҳ бўлими қўшилди (гуруҳ очиш, QR билан қўшилиш). Иловадаги овоз тузатилди."
+    "lat": "Guruh rahbari endi aʼzolarni xaritada koʻradi, telefon ekrani oʻchiq turganda ham joylashuv yuborilaveradi. Rahbar chiqib ketsa, guruh tarqalib ketmaydi: rahbarlikni boshqa aʼzoga topshirish mumkin, guruhni yopish esa faqat guruh nomini yozib tasdiqlangandan keyin amalga oshadi.",
+    "cyr": "Гуруҳ раҳбари энди аъзоларни харитада кўради, телефон экрани ўчиқ турганда ҳам жойлашув юборилаверади. Раҳбар чиқиб кетса, гуруҳ тарқалиб кетмайди: раҳбарликни бошқа аъзога топшириш мумкин, гуруҳни ёпиш эса фақат гуруҳ номини ёзиб тасдиқлангандан кейин амалга ошади."
   }
 }
