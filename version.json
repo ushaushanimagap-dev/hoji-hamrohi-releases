@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
+  "versionCode": 36,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Kirill yozuvi toʻliq: ilova nomi, masofalar (м, км). Xurmo mavzusida oltin urgʻu. Tungi mavzuda xarita bir tekis qorongʻi.",
-    "cyr": "Кирилл ёзуви тўлиқ: илова номи, масофалар (м, км). Хурмо мавзусида олтин урғу. Тунги мавзуда харита бир текис қоронғи."
+    "lat": "Yangi bezak: bosh sahifada Haram manzarasi va oltin Kaʼba belgisi, «Kimga» tanlovi favqulodda kartochkada, iboralarda «Tinglash» tugmasi, joylar va mavzular uchun belgilar, ochilish ekrani.",
+    "cyr": "Янги безак: бош саҳифада Ҳарам манзараси ва олтин Каъба белгиси, «Кимга» танлови фавқулодда карточкада, ибораларда «Тинглаш» тугмаси, жойлар ва мавзулар учун белгилар, очилиш экрани."
   }
 }
