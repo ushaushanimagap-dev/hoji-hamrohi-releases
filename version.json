@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
+  "versionCode": 45,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Yangi bezak: bosh sahifada Haram manzarasi va oltin Kaʼba belgisi, «Kimga» tanlovi favqulodda kartochkada, iboralarda «Tinglash» tugmasi, joylar va mavzular uchun belgilar, ochilish ekrani.",
-    "cyr": "Янги безак: бош саҳифада Ҳарам манзараси ва олтин Каъба белгиси, «Кимга» танлови фавқулодда карточкада, ибораларда «Тинглаш» тугмаси, жойлар ва мавзулар учун белгилар, очилиш экрани."
+    "lat": "Yangi: pastki menyuda markazda yashil «Ovoz» tugmasi — mikrofonga ayting, ilova lugʻatdan qidiradi (internet kerak). «Adashdim» bosh sahifaga va «Men»ga koʻchdi. Lugʻatda topilmagan soʻzlar ismsiz yuboriladi (Sozlamalardan oʻchirish mumkin).",
+    "cyr": "Янги: пастки менюда марказда яшил «Овоз» тугмаси — микрофонга айтинг, илова луғатдан қидиради (интернет керак). «Адашдим» бош саҳифага ва «Мен»га кўчди. Луғатда топилмаган сўзлар исмсиз юборилади (Созламалардан ўчириш мумкин)."
   }
 }
