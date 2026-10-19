@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
+  "versionCode": 49,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Lugʻatda qidiruv yaxshilandi: «pasportimni yoʻqotib qoʻydim» kabi gaplar endi topiladi; 30 dan ortiq yangi ibora (tahorat, qibla, tez yordam, adashdim, Wi-Fi va boshqalar). Ovoz bilan qidirish va yangi menyu (Ovoz markazda). Xarita: binolar aniqroq, xaritaga bosilsa yozuvlar yashirinadi, kichik xaritalar butun ekranga ochiladi.",
-    "cyr": "Луғатда қидирув яхшиланди: «паспортимни йўқотиб қўйдим» каби гаплар энди топилади; 30 дан ортиқ янги ибора (таҳорат, қибла, тез ёрдам, адашдим, Wi-Fi ва бошқалар). Овоз билан қидириш ва янги меню (Овоз марказда). Харита: бинолар аниқроқ, харитага босилса ёзувлар яширинади, кичик хариталар бутун экранга очилади."
+    "lat": "Yangi zumrad dizayni, lugʻat va bosh sahifadagi mavzularga rasmlar",
+    "cyr": "Янги зумрад дизайни, луғат ва бош саҳифадаги мавзуларга расмлар"
   }
 }
