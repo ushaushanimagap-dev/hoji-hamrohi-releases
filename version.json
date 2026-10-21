@@ -1,9 +1,9 @@
 {
-  "versionCode": 53,
+  "versionCode": 54,
   "versionName": "2.1",
   "apkUrl": "https://github.com/ushaushanimagap-dev/hoji-hamrohi-releases/releases/latest/download/hoji-hamrohi.apk",
   "notes": {
-    "lat": "Yangi zumrad dizayni, barcha kartochkalarda rasmlar, yangilanish yuklashi tuzatildi",
-    "cyr": "Янги зумрад дизайни, барча карточкаларда расмлар, янгиланиш юклаши тузатилди"
+    "lat": "Barcha kartochkalarda rasmlar, yangilanish xatosi sababi ekranda koʻrinadi",
+    "cyr": "Барча карточкаларда расмлар, янгиланиш хатоси сабаби экранда кўринади"
   }
 }
